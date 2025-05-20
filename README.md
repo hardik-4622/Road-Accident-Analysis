@@ -48,5 +48,7 @@ The Road Accident Dashboard is an Excel-based data visualization tool designed t
 5. **Map View:**
    - Check the "Map" sheet for a spatial representation of accident locations.
 
+## Dashboard
+![Dashboard](https://github.com/hardik-4622/Road-Accident-Analysis/blob/main/289476215-80e972e7-8dda-4202-bed3-b405fc76ae24.png)
 
 
